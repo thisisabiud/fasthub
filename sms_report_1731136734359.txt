@@ -1,0 +1,26 @@
+SMS Delivery Report - Sat Nov 09 10:17:10 EAT 2024
+----------------------------------------
+Reference: e4bd679e-dd44-4d79-ab57-478e9cb09623
+Phone Number: 255677028965
+Status: SENT
+Retry Count: 0
+Last Retry: Sat Nov 09 10:17:10 EAT 2024
+----------------------------------------
+Reference: 127c2bce-f414-41c6-8249-2e9571a426ff
+Phone Number: 255789599505
+Status: SENT
+Retry Count: 0
+Last Retry: Sat Nov 09 10:17:10 EAT 2024
+----------------------------------------
+Reference: 0bcbbfac-f135-404c-9978-a402b323cd50
+Phone Number: 255677011378
+Status: SENT
+Retry Count: 0
+Last Retry: Sat Nov 09 10:17:10 EAT 2024
+----------------------------------------
+Reference: 6c822991-5c1f-4bc9-bc22-b216f0ee6ef2
+Phone Number: 255677035684
+Status: SENT
+Retry Count: 0
+Last Retry: Sat Nov 09 10:17:10 EAT 2024
+----------------------------------------
